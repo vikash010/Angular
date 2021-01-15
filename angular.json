@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "word-gen"
+  "defaultProject": "word-gen",
+  "cli": {
+    "analytics": false
+  }
 }
